@@ -1,5 +1,5 @@
 # Fashion Classification AI — Gender & Clothing-Type Classification
-### Full-Stack Deep Learning System (React + Flask + TensorFlow)
+### Full_Stack Deep Learning System (React + Flask + TensorFlow)
 
 ClothingAI is an end-to-end image classification system capable of identifying clothing types and gender categories from user-uploaded images.  
 The system classifies images into **four categories**:
